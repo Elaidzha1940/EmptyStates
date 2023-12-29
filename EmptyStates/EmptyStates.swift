@@ -28,7 +28,7 @@ struct EmptyStateView: View {
                 .searchable(text: $searchTerm)
                 .overlay {
                     if filteredHeroes .isEmpty {
-                        ContentUnavailableView.search
+                        ContentUnavailableView.search(text: searchTerm)
                     }
                 }
             }
