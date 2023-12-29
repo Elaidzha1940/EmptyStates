@@ -13,7 +13,7 @@ import SwiftUI
 struct EmptyStatesApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            EmptyStateView()
         }
     }
 }

@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		E4B46AA12B3F0EAD0029FA7C /* EmptyStatesApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4B46AA02B3F0EAD0029FA7C /* EmptyStatesApp.swift */; };
-		E4B46AA32B3F0EAD0029FA7C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4B46AA22B3F0EAD0029FA7C /* ContentView.swift */; };
+		E4B46AA32B3F0EAD0029FA7C /* EmptyStates.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4B46AA22B3F0EAD0029FA7C /* EmptyStates.swift */; };
 		E4B46AA52B3F0EAE0029FA7C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E4B46AA42B3F0EAE0029FA7C /* Assets.xcassets */; };
 		E4B46AA82B3F0EAE0029FA7C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E4B46AA72B3F0EAE0029FA7C /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
@@ -16,7 +16,7 @@
 /* Begin PBXFileReference section */
 		E4B46A9D2B3F0EAD0029FA7C /* EmptyStates.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EmptyStates.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E4B46AA02B3F0EAD0029FA7C /* EmptyStatesApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmptyStatesApp.swift; sourceTree = "<group>"; };
-		E4B46AA22B3F0EAD0029FA7C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		E4B46AA22B3F0EAD0029FA7C /* EmptyStates.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmptyStates.swift; sourceTree = "<group>"; };
 		E4B46AA42B3F0EAE0029FA7C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E4B46AA72B3F0EAE0029FA7C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -52,7 +52,7 @@
 			isa = PBXGroup;
 			children = (
 				E4B46AA02B3F0EAD0029FA7C /* EmptyStatesApp.swift */,
-				E4B46AA22B3F0EAD0029FA7C /* ContentView.swift */,
+				E4B46AA22B3F0EAD0029FA7C /* EmptyStates.swift */,
 				E4B46AA42B3F0EAE0029FA7C /* Assets.xcassets */,
 				E4B46AA62B3F0EAE0029FA7C /* Preview Content */,
 			);
@@ -137,7 +137,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E4B46AA32B3F0EAD0029FA7C /* ContentView.swift in Sources */,
+				E4B46AA32B3F0EAD0029FA7C /* EmptyStates.swift in Sources */,
 				E4B46AA12B3F0EAD0029FA7C /* EmptyStatesApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
